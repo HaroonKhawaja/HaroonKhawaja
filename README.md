@@ -30,9 +30,9 @@ Preference alignment without reinforcement learning. Built on SmolLM from first 
 
 Warehouses, pipelines and the movement of data at enterprise scale. This is the day job.
 
-**[Azure](https://github.com/HaroonKhawaja/Azure)** — change data capture, Delta Live Tables pipelines and ETL patterns on Azure Databricks.
+**[azure-lakehouse-patterns](https://github.com/HaroonKhawaja/azure-lakehouse-patterns)** — change data capture, Delta Live Tables pipelines and ETL patterns on Azure Databricks.
 
-**[SQL-Data-Warehouse-Project](https://github.com/HaroonKhawaja/SQL-Data-Warehouse-Project)** — a dimensional warehouse built from scratch in T-SQL, bronze through gold.
+**[sql-warehouse-medallion](https://github.com/HaroonKhawaja/sql-warehouse-medallion)** — a dimensional warehouse built from scratch in T-SQL, bronze through gold.
 
 ---
 
@@ -42,7 +42,7 @@ Warehouses, pipelines and the movement of data at enterprise scale. This is the 
 
 **[StructureFromMotion](https://github.com/HaroonKhawaja/StructureFromMotion)** — 2D-to-3D reconstruction on the heritage-recon dataset, in OpenCV.
 
-**[machine_learning](https://github.com/HaroonKhawaja/machine_learning)** — backpropagation, knowledge distillation and regression, implemented without frameworks.
+**[ml-from-scratch](https://github.com/HaroonKhawaja/ml-from-scratch)** — backpropagation, knowledge distillation and regression, implemented without frameworks.
 
 ---
 
